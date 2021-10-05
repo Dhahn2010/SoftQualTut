@@ -35,5 +35,9 @@ jobs:
         
       # Runs a set of commands using the runners shell
       - run: echo How's it going
+      
+      
+      - env:
+          name : EnvriomentExample
             
   
