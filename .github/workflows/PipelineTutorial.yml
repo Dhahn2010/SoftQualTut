@@ -37,7 +37,7 @@ jobs:
       - run: echo How's it going
       
       
-      - env:
-          name : EnvriomentExample
+      - run: EnviromentExample
+                  
             
   
